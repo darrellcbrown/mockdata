@@ -1,35 +1,35 @@
-{
-"events":[
+[
     {
-      id:5928101,
-      title: 'Cat Adoption Day',
-      category:'animal welfare',
-      description: 'find you new feline',
-      location: 'meow town',
-      date: 'jan 28, 2022',
-      time: '12:00',
-      petsAllowed: true,
-      organizer: 'kat laydee'    
-    },{
-      id:4582797,
-      title: 'Community Gardening',
-      category:'food',
-      description: 'find you new feline',
-      location: 'Flora City',
-      date: 'mar 14, 2024',
-      time: '10:00',
-      petsAllowed: true,
-      organizer: 'rose petal'    
-    },{
-      id:8419988,
-      title: 'Beach Cleanup',
-      category:'sustainability',
-      description: 'Help pickup trash along the shore',
-      location: 'Playa Del Carmen',
-      date: 'jul 28, 2022',
-      time: '9:00',
-      petsAllowed: false,
-      organizer: 'sandy seaton'    
+      "id":5928101,
+      "title": "Cat Adoption Day",
+      "category":"animal welfare",
+      "description": "find you new feline",
+      "location": "meow town",
+      "date": "jan 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "kat laydee"    
+    },
+    {
+      "id":4582797,
+      "title": "Community Gardening",
+      "category":"food",
+      "description": "find you new feline",
+      "location": "Flora City",
+      "date": "mar 14, 2024",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "rose petal"    
+    },
+    {
+      "id":8419988,
+      "title": "Beach Cleanup",
+      "category":"sustainability",
+      "description": "Help pickup trash along the shore",
+      "location": "Playa Del Carmen",
+      "date": "jul 28, 2022",
+      "time": "9:00",
+      "petsAllowed": false,
+      "organizer": "sandy seaton"    
     }  
-]
-}
+  ]
