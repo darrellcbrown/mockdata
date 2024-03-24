@@ -1,4 +1,5 @@
 {
+   "message": {"text":"Hello from the db!"},
    "events": [{
   "id": 1,
   "title": "Cookley",
